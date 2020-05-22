@@ -1,5 +1,7 @@
 ## CRUD Pessoas DEV  Branch: "card#1000"
 
+Alteração pra branch dev
+
 Simples crud desenvolvido no laravel, para rodar o projeto executar os seguintes comandos:
 
 - Criar uma base de dados no mysql chamada: cadastro
