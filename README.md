@@ -1,4 +1,4 @@
-## CRUD Pessoas
+## CRUD Pessoas DEV
 
 Simples crud desenvolvido no laravel, para rodar o projeto executar os seguintes comandos:
 
